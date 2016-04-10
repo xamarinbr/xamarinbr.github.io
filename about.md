@@ -29,10 +29,6 @@ Contatos:
 - [http://github.com/angelobelchior8](http://gitHub.com/angelobelchior8)
 - [https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis](https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis)
 
-
-------------------
-
-
 Conheça também a Comunidade Monkey Nights e fique por dentro de tudo que rola no mundo Xamarin!
 
 Hangouts quinzenais!
