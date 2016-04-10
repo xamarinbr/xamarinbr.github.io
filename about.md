@@ -22,12 +22,12 @@ Para ficar por dentro das novidades assine meu canal no Youtube: http://www.yout
  
 Contatos:  
 
-- angelobelchior@hotmail.com
+- [angelobelchior@hotmail.com](http://mailto:angelobelchior@hotmail.com)
 - [http://youtube.com/angelobelchior](http://youtube.com/angelobelchior)
 - [http://twitter.com/angelobelchior](http://twitter.com/angelobelchior)
 - [http://fb.com/angelobelchior8](http://fb.com/angelobelchior8)
 - [http://github.com/angelobelchior8](http://gitHub.com/angelobelchior8)
-- [https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis](https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis
+- [https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis](https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis)
 
 
 ------------------
@@ -45,8 +45,8 @@ Hangouts quinzenais!
 
 Os Monkey Nighters
 
-- Alexandre Chohfi / [http://azchohfi.wordpress.com](http://azchohfi.wordpress.com) / @alexandrechohfi
-- Angelo Belchior / [http://xamarinbr.azurewebsites.net](http://xamarinbr.azurewebsites.net) / @angelobelchior
-- Paulo Cesar Ortins Brito / [http://pauloortins.com](http://pauloortins.com) / @pauloortins
-- Ricardo Dorta / [http://ricardodorta.net.br](http://ricardodorta.net.br) / @dortaway
-- William S. Rodriguez / [http://williamsrz.com.br](http://williamsrz.com.br) / @williamsrodz
+- Alexandre Chohfi / [http://azchohfi.wordpress.com](http://azchohfi.wordpress.com) / [@alexandrechohfi](http://www.twitter.com/alexandrechohfi)
+- Angelo Belchior / [http://xamarinbr.azurewebsites.net](http://xamarinbr.azurewebsites.net) / [@angelobelchior](http://www.twitter.com/angelobelchior)
+- Paulo Cesar Ortins Brito / [http://pauloortins.com](http://pauloortins.com) / [@pauloortins](http://www.twitter.com/pauloortins)
+- Ricardo Dorta / [http://ricardodorta.net.br](http://ricardodorta.net.br) / [@dortaway](http://www.twitter.com/dortaway)
+- William S. Rodriguez / [http://williamsrz.com.br](http://williamsrz.com.br) / [@williamsrodz](http://www.twitter.com/williamsrodz)
