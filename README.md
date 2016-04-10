@@ -1,1 +1,1 @@
-# xamarinbr.github.io
+Conteúdo especializado em Xamarin, iOS, Android, Windows Phone, Universal Apps, CSharp e desenvolvimento em geral
