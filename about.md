@@ -16,34 +16,37 @@ Sou desenvolvedor há mais de 10 anos e já participei de projetos Desktop, Web 
 
 Há um bom tempo venho contribuindo com a comunidade de desenvolvimento, e fui agraciado pela Microsoft como [MVP em Windows Platform](https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis).
 
-Sou MCPD em Web e trabalho no Dieta e Saúde do Portal Minha Vida - Maior Portal sobre Saúde e Bem Estar do Brasil. 
+Sou MCPD em Web e trabalho no [Dieta e Saúde](http://www.dietaesaude.com.br) do [Portal Minha Vida](http://www.minhavida.com.br) - Maior Portal sobre Saúde e Bem Estar do Brasil. 
 
 Para ficar por dentro das novidades assine meu canal no Youtube: http://www.youtube.com/angelobelchior 
  
 Contatos:  
 
 - angelobelchior@hotmail.com
-- http://youtube.com/angelobelchior 
-- http://twitter.com/angelobelchior 
-- http://fb.com/angelobelchior8 
-- http://gitHub.com/angelobelchior8 
-- https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis 
+- [http://youtube.com/angelobelchior](http://youtube.com/angelobelchior)
+- [http://twitter.com/angelobelchior](http://twitter.com/angelobelchior)
+- [http://fb.com/angelobelchior8](http://fb.com/angelobelchior8)
+- [http://github.com/angelobelchior8](http://gitHub.com/angelobelchior8)
+- [https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis](https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis
+
 
 ------------------
 
+
 Conheça também a Comunidade Monkey Nights e fique por dentro de tudo que rola no mundo Xamarin!
+
 Hangouts quinzenais!
 
-- Facebook: https://www.facebook.com/MonkeyNightsDevs/?fref=ts
-- Twitter: https://twitter.com/MonkeyNightsDev
-- Youtube: https://www.youtube.com/channel/UCFaQBRaoHrAxcGoeY8E5jvQ
-- Sala do Monkey Nights no Jabber: https://jabbr.net/#/rooms/MonkeyNights
-- Podcast no Itunes: https://itunes.apple.com/br/podcast/monkeynights
+- Facebook: [https://www.facebook.com/MonkeyNightsDevs/?fref=ts](https://www.facebook.com/MonkeyNightsDevs/?fref=ts)
+- Twitter: [https://twitter.com/MonkeyNightsDev](https://twitter.com/MonkeyNightsDev)
+- Youtube: [https://www.youtube.com/channel/UCFaQBRaoHrAxcGoeY8E5jvQ](https://www.youtube.com/channel/UCFaQBRaoHrAxcGoeY8E5jvQ)
+- Sala do Monkey Nights no Jabber: [https://jabbr.net/#/rooms/MonkeyNights](https://jabbr.net/#/rooms/MonkeyNights)
+- Podcast no Itunes: [https://itunes.apple.com/br/podcast/monkeynights](https://itunes.apple.com/br/podcast/monkeynights)
 
 Os Monkey Nighters
 
-- Alexandre Chohfi / http://azchohfi.wordpress.com/ / @alexandrechohfi
-- Angelo Belchior / http://xamarinbr.azurewebsites.net/ / @angelobelchior
-- Paulo Cesar Ortins Brito / http://pauloortins.com/ / @pauloortins
-- Ricardo Dorta / http://ricardodorta.net.br/ / @dortaway
-- William S. Rodriguez / http://williamsrz.com.br/ / @williamsrodz
+- Alexandre Chohfi / [http://azchohfi.wordpress.com](http://azchohfi.wordpress.com) / @alexandrechohfi
+- Angelo Belchior / [http://xamarinbr.azurewebsites.net](http://xamarinbr.azurewebsites.net) / @angelobelchior
+- Paulo Cesar Ortins Brito / [http://pauloortins.com](http://pauloortins.com) / @pauloortins
+- Ricardo Dorta / [http://ricardodorta.net.br](http://ricardodorta.net.br) / @dortaway
+- William S. Rodriguez / [http://williamsrz.com.br](http://williamsrz.com.br) / @williamsrodz
